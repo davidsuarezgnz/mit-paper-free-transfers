@@ -1,3 +1,22 @@
-pandas>=1.5.0
-numpy>=1.21.0
 python-dateutil>=2.8.0
+joblib
+
+# Jupyter & kernel
+jupyter
+ipykernel
+
+# Treatment and analysis of data
+pandas
+numpy
+
+# Basic and advanced visualization
+matplotlib
+seaborn
+plotly
+kaleido
+scikit-posthocs
+
+# Statistics and exploratory analysis
+scipy
+statsmodels
+scikit-learn

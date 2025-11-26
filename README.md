@@ -6,25 +6,11 @@ This repository accompanies the abstract submission for the MIT Sports Analytics
 ## Repository Structure (to be updated)
 project/
 
-├── data/ # Placeholder for public datasets
-
-├── src/ # Core algorithms (to be released with full paper)
+├── data/ # Public datasets
 
 ├── notebooks/ # Reproducibility workflows
 
 └── README.md # Project documentation
-
-## Data
-- **Current submission**: uses synthetic/public placeholders.  
-- **Full paper version**: will include adapted pipelines with publicly available data.  
-
-## Instructions
-For now, no runnable code is attached.  
-Once the full paper is requested, this repository will be updated with:
-
-- Preprocessing scripts  
-- Core algorithm implementation  
-- Reproducibility instructions  
 
 ---
 
